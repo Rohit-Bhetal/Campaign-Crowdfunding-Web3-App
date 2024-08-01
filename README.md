@@ -39,7 +39,7 @@ To learn more about thirdweb, Vite and React, take a look at the following resou
 ![image 1](https://github.com/user-attachments/assets/7d47d55b-eae6-454f-8a5d-9c8179a7bf64)
 
   ### Use Metamask For Login and Use Seopolia test coin 
-  ![image 1(1)](https://github.com/user-attachments/assets/ac66b865-03ec-41a6-b099-7942647f9101)
+ <img src="https://github.com/user-attachments/assets/ac66b865-03ec-41a6-b099-7942647f9101" alt="image 1(1)" width="250" />
 
 
 ## Deployed Website
