@@ -1,9 +1,9 @@
 ## Getting Started
 
-Create a project using this example:
+Clone the Project:
 
 ```bash
-npx thirdweb create --template vite-javascript-starter
+https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App.git
 ```
 
 You can start editing the page by modifying `src/main.jsx`. The page auto-updates as you edit the file.
@@ -14,7 +14,7 @@ this is necessary for our [hooks](https://portal.thirdweb.com/react) and
 
 ## Environment Variables
 
-To run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to `.env.local` file or set them up on your hosting provider.
+To run this project, you will need to add environment variables. Check the `.env` file for all the environment variables required and add it to `.env` file or set them up on your hosting provider.
 
 ### Deploy to IPFS
 
@@ -34,3 +34,14 @@ To learn more about thirdweb, Vite and React, take a look at the following resou
 - [Vite Documentation](https://vitejs.dev/guide/) - learn about Vite features.
 - [React documentation](https://reactjs.org/) - learn React.
 - [Templates](https://thirdweb.com/templates)
+
+## DashBoard Visuals
+![image 1](https://github.com/user-attachments/assets/7d47d55b-eae6-454f-8a5d-9c8179a7bf64)
+
+  ### Use Metamask For Login and Use Seopolia test coin 
+  ![image 1(1)](https://github.com/user-attachments/assets/ac66b865-03ec-41a6-b099-7942647f9101)
+
+
+## Deployed Website
+Checkout Here : https://crowdfundingweb3app.netlify.app/
+
