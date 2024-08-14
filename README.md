@@ -54,10 +54,11 @@
         📄 License
         👏 Acknowledgments
 
-📍 Overview
+## 📍 Overview
 
 The Campaign-Crowdfunding-Web3-App is a decentralized crowdfunding platform designed to empower creators and entrepreneurs by leveraging Web3 technology. This application integrates smart contracts with blockchain technology to enable secure, transparent, and efficient crowdfunding campaigns. Users can create, fund, and track campaigns, as well as interact with the community through a user-friendly interface.
-📦 Features
+
+## 📦 Features
 
     Decentralized Campaign Creation: Launch crowdfunding campaigns using blockchain technology.
     Smart Contract Integration: Secure and transparent transactions facilitated by smart contracts.
