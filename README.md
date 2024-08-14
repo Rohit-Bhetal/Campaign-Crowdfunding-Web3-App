@@ -5,7 +5,7 @@
     <h1 align="center">CAMPAIGN-CROWDFUNDING-WEB3-APP</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
+    <em><code>► CrowdFunding Web3</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App?style=flat&color=0080ff" alt="license">
@@ -75,8 +75,11 @@ The Campaign-Crowdfunding-Web3-App is a decentralized crowdfunding platform desi
 
 ## 🚀 Deployed Website
 Check it out here: [Crowdfunding Web3 App](https://crowdfundingweb3app.netlify.app/)
-sh
 
+
+## 📂 Repository Structure
+
+```sh
 └── Campaign-Crowdfunding-Web3-App/
     ├── Contract
     │   ├── README.md
@@ -146,71 +149,184 @@ sh
     │   │   ├── Home.jsx
     │   │   ├── Profile.jsx
     │   │   └── index.js
-    │   ├── smartContract
-    │   │   └── index.js
-    │   └── styles
-    │       ├── index.css
-    │       └── tailwind.css
+    │   └── utils
+    │       └── index.js
     ├── tailwind.config.js
-    ├── tsconfig.json
     ├── vite.config.js
-    ├── yarn.lock
+    └── yarn.lock
+```
 
-🧩 Modules
+---
 
-    Campaign-Crowdfunding-Web3-App: This is the main module of the project.
+## 🧩 Modules
 
-🚀 Getting Started
-⚙️ Installation
+<details closed><summary>.</summary>
 
-    Clone the repository:
+| File                                                                                                                | Summary                         |
+| ---                                                                                                                 | ---                             |
+| [index.html](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/index.html)                 | <code>► INSERT-TEXT-HERE</code> |
+| [postcss.config.js](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/postcss.config.js)   | <code>► INSERT-TEXT-HERE</code> |
+| [vite.config.js](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/vite.config.js)         | <code>► INSERT-TEXT-HERE</code> |
+| [package.json](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/package.json)             | <code>► INSERT-TEXT-HERE</code> |
+| [tailwind.config.js](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/tailwind.config.js) | <code>► INSERT-TEXT-HERE</code> |
+| [package-lock.json](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/package-lock.json)   | <code>► INSERT-TEXT-HERE</code> |
+| [yarn.lock](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/yarn.lock)                   | <code>► INSERT-TEXT-HERE</code> |
 
-    sh
+</details>
 
-git clone https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App.git
+<details closed><summary>Contract</summary>
 
-Navigate into the project directory:
+| File                                                                                                                       | Summary                         |
+| ---                                                                                                                        | ---                             |
+| [package.json](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/Contract/package.json)           | <code>► INSERT-TEXT-HERE</code> |
+| [hardhat.config.js](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/Contract/hardhat.config.js) | <code>► INSERT-TEXT-HERE</code> |
+| [package-lock.json](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/Contract/package-lock.json) | <code>► INSERT-TEXT-HERE</code> |
+| [yarn.lock](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/Contract/yarn.lock)                 | <code>► INSERT-TEXT-HERE</code> |
 
-sh
+</details>
 
+<details closed><summary>Contract.cache</summary>
+
+| File                                                                                                                                             | Summary                         |
+| ---                                                                                                                                              | ---                             |
+| [solidity-files-cache.json](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/Contract/cache/solidity-files-cache.json) | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>Contract.artifacts.build-info</summary>
+
+| File                                                                                                                                                                                    | Summary                         |
+| ---                                                                                                                                                                                     | ---                             |
+| [a779a57e8a7c55d8418192abf5957381.json](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/Contract/artifacts/build-info/a779a57e8a7c55d8418192abf5957381.json) | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>Contract.artifacts.contracts.Contract.sol</summary>
+
+| File                                                                                                                                                            | Summary                         |
+| ---                                                                                                                                                             | ---                             |
+| [MyContract.dbg.json](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/Contract/artifacts/contracts/Contract.sol/MyContract.dbg.json) | <code>► INSERT-TEXT-HERE</code> |
+| [MyContract.json](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/Contract/artifacts/contracts/Contract.sol/MyContract.json)         | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>Contract.contracts</summary>
+
+| File                                                                                                                       | Summary                         |
+| ---                                                                                                                        | ---                             |
+| [Contract.sol](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/Contract/contracts/Contract.sol) | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>src</summary>
+
+| File                                                                                                  | Summary                         |
+| ---                                                                                                   | ---                             |
+| [App.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/App.jsx)     | <code>► INSERT-TEXT-HERE</code> |
+| [index.css](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/index.css) | <code>► INSERT-TEXT-HERE</code> |
+| [main.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/main.jsx)   | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>src.constants</summary>
+
+| File                                                                                                          | Summary                         |
+| ---                                                                                                           | ---                             |
+| [index.js](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/constants/index.js) | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>src.utils</summary>
+
+| File                                                                                                      | Summary                         |
+| ---                                                                                                       | ---                             |
+| [index.js](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/utils/index.js) | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>src.pages</summary>
+
+| File                                                                                                                            | Summary                         |
+| ---                                                                                                                             | ---                             |
+| [CampaignDetails.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/pages/CampaignDetails.jsx) | <code>► INSERT-TEXT-HERE</code> |
+| [CreateCampaign.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/pages/CreateCampaign.jsx)   | <code>► INSERT-TEXT-HERE</code> |
+| [Home.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/pages/Home.jsx)                       | <code>► INSERT-TEXT-HERE</code> |
+| [Profile.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/pages/Profile.jsx)                 | <code>► INSERT-TEXT-HERE</code> |
+| [index.js](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/pages/index.js)                       | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>src.components</summary>
+
+| File                                                                                                                                   | Summary                         |
+| ---                                                                                                                                    | ---                             |
+| [CustomButton.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/components/CustomButton.jsx)         | <code>► INSERT-TEXT-HERE</code> |
+| [DisplayCampaigns.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/components/DisplayCampaigns.jsx) | <code>► INSERT-TEXT-HERE</code> |
+| [Loader.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/components/Loader.jsx)                     | <code>► INSERT-TEXT-HERE</code> |
+| [FormField.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/components/FormField.jsx)               | <code>► INSERT-TEXT-HERE</code> |
+| [Sidebar.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/components/Sidebar.jsx)                   | <code>► INSERT-TEXT-HERE</code> |
+| [index.js](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/components/index.js)                         | <code>► INSERT-TEXT-HERE</code> |
+| [CountBox.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/components/CountBox.jsx)                 | <code>► INSERT-TEXT-HERE</code> |
+| [FundCard.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/components/FundCard.jsx)                 | <code>► INSERT-TEXT-HERE</code> |
+| [Navbar.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/components/Navbar.jsx)                     | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+<details closed><summary>src.context</summary>
+
+| File                                                                                                          | Summary                         |
+| ---                                                                                                           | ---                             |
+| [index.jsx](https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App/blob/master/src/context/index.jsx) | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
+---
+
+## 🚀 Getting Started
+
+***Requirements***
+
+Ensure you have the following dependencies installed on your system:
+
+* **JavaScript**: `version x.y.z`
+
+### ⚙️ Installation
+
+1. Clone the Campaign-Crowdfunding-Web3-App repository:
+
+```sh
+git clone https://github.com/Rohit-Bhetal/Campaign-Crowdfunding-Web3-App
+```
+
+2. Change to the project directory:
+
+```sh
 cd Campaign-Crowdfunding-Web3-App
+```
 
-Install dependencies:
+3. Install the dependencies:
 
-sh
-
+```sh
 npm install
+```
 
-Run the development server:
+### 🤖 Running Campaign-Crowdfunding-Web3-App
 
-sh
+Use the following command to run Campaign-Crowdfunding-Web3-App:
 
-    npm run dev
+```sh
+node app.js
+```
 
-    Access the application:
-    Open http://localhost:5173 in your browser.
+### 🧪 Tests
 
-🤖 Running Campaign-Crowdfunding-Web3-App
+To execute tests, run:
 
-    Development Mode: To start the development server and run the application:
+```sh
+npm test
+```
 
-    sh
-
-npm run dev
-
-Production Mode: To build the application for production:
-
-sh
-
-    npm run build
-
-🧪 Tests
-
-    Run tests with Mocha:
-
-    sh
-
-    npm test
+---
 
 🛠 Project Roadmap
 
